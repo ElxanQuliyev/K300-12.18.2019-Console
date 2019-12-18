@@ -1,0 +1,6 @@
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\bin\Debug\Console-12.14.2019.exe.config
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\bin\Debug\Console-12.14.2019.exe
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\bin\Debug\Console-12.14.2019.pdb
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\obj\Debug\Console-12.14.2019.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\obj\Debug\Console-12.14.2019.exe
+C:\Users\Elxan\source\repos\Console-12.14.2019\Console-12.14.2019\obj\Debug\Console-12.14.2019.pdb
